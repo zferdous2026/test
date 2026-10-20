@@ -1,1 +1,1 @@
-I eat rice 
+This is a Datascience class 
